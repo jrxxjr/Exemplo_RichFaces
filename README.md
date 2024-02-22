@@ -10,7 +10,7 @@ Exemplo de aplicação Java Web com JSF utlizando o framework RichFaces
     tomcat7:deploy e depois a cada novo deploy tomcat7:redeploy.    
 5 - No browser a url a ser chamada é a: 
     http://localhost:8080/richfaces/
-
+_________________________________________________________________________________________________________________
 
 
 English:
